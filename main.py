@@ -3,7 +3,7 @@ from pygame.locals import *
 import random
 
 pygame.init()
-pygame.display.set_caption("Retrocar game.v.1.0")
+pygame.display.set_caption("RetroPycar game.v.1.0")
 pantalla = pygame.display.set_mode((400, 700))
 color_fondo = pygame.Color(250,250,250)
 color2 = pygame.Color(200,200,70)
