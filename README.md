@@ -1,5 +1,5 @@
 # RetroPyCar
-Juego retro, pero super super divertido construido con Pygame y mucha curiosidad
+JuegRetro game, but super super fun built with Pygame and a lot of curiosity
 
 ![Screenshot de RetroPyCar](captura1.png)
 ![Screenshot de RetroPyCar](captura2.png)
